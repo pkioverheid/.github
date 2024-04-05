@@ -1,4 +1,4 @@
-# Purpose of this repository
+# Purpose of this GitHub instance
 
 The purpose of the PKIoverheid organization on GitHub is to collaborate between the Policy Authority PKIoverheid and other PKIoverheid parties, like Trust Service Providers, Auditor or other bodies. As such, most of the work is non-public
 
